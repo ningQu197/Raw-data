@@ -1,0 +1,8 @@
+Term	Count	PValue
+protein folding	14	1.8714123932731536e-07
+protein targeting to ER	6	4.888830891486711e-07
+activation of innate immune response	4	0.006096380883749981
+positive regulation of T cell differentiation	4	0.00778234400266775
+cellular respiration	4	0.01190799671794811
+innate immune response	14	0.02729441507799643
+response to virus	5	0.03656096740375981

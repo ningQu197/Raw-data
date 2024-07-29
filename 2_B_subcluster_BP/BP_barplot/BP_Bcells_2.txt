@@ -1,0 +1,5 @@
+Term	Count	PValue
+aerobic respiration	8	7.700402290208803e-13
+oxygen transport	5	2.2299906709730605e-09
+carbon dioxide transport	4	4.560234496001485e-07
+response to oxidative stress	3	0.008333819713370374

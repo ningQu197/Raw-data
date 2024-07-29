@@ -1,0 +1,5 @@
+Term	Count	PValue
+cytoplasmic translation	72	3.237285072184302e-153
+translation	74	3.366907306903083e-118
+ribosomal small subunit biogenesis	21	9.253758555725193e-29
+rRNA processing	17	7.078336437386961e-17

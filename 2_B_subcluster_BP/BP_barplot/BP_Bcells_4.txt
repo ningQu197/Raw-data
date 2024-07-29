@@ -1,0 +1,9 @@
+Term	Count	PValue
+cytoplasmic translation	34	1.9241970459069928e-53
+B cell receptor signaling pathway	14	4.406222893072271e-13
+positive regulation of B cell activation	8	1.0948934471263258e-06
+antibacterial humoral response	6	2.8914053568487128e-05
+innate immune response	14	3.3610515772555096e-05
+immune response	11	0.0003625976548772056
+immunoglobulin mediated immune response	5	0.0012208562626873304
+humoral immune response	4	0.004407001375054623

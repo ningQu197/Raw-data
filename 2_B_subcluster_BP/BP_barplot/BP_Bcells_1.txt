@@ -1,0 +1,13 @@
+Term	Count	PValue
+cell division	16	6.813632926157393e-09
+mRNA splicing, via spliceosome	12	1.9888378454324363e-08
+negative regulation of apoptotic process	14	1.0933203803732132e-05
+mitotic cell cycle	8	2.905160212919197e-05
+cell cycle	11	5.077771565013295e-05
+DNA geometric change	3	0.00019995087735514568
+cell proliferation	7	0.0008623087903336232
+activation of innate immune response	4	0.0009224053586596414
+positive regulation of T cell differentiation	4	0.0011918982872903296
+DNA recombination	4	0.01218670072959818
+regulation of cytokinesis	3	0.024849647842464732
+V(D)J recombination	2	0.04563475465979976
