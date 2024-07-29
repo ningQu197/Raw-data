@@ -1,0 +1,2 @@
+	chromosome segregation	mitotic nuclear division	sister chromatid segregation	spindle organization	cell cycle checkpoint signaling
+Count	100	78	72	59	48	40
